@@ -2,3 +2,7 @@
 /notes-app/node_modules/validator/es
 /notes-app/node_modules/validator
 /notes-app/node_modules
+.DS_Store
+notes-app/.DS_Store
+/weather-app/node_modules
+/web-server/node_modules
